@@ -1,0 +1,33 @@
+body {
+  background: #444444;
+  color: #fff;
+  font-family: 'Georgia';
+  width: 800px;
+  margin: auto;
+  border: 5px solid #7a7a7a;
+  padding: 30px;
+}
+
+h2,a {
+  font-family: 'Helvetica';
+}
+
+a{
+  color: #68D49F;
+  font-weight:bold;
+}
+
+header, footer{
+  text-align: center;
+}
+
+img{
+  padding: 5px;
+  border: 1px solid #7a7a7a;
+}
+
+section{
+  border-width: 2px 0 2px 0;
+  border-style: solid;
+  border-color: #7a7a7a;
+}
